@@ -36,4 +36,5 @@ Le client vous demandera ce que vous voulez afficher :
 * “4” pour afficher les trois informations précédentes en même temps.
 	
 Ensuite soit vous cliquez sur “y”, pour poursuivre d'autres affichages
+
 Soit vous cliquez sur “n” pour stopper les affichages et ainsi terminer le programme “client_info.py”.
