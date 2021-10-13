@@ -1,8 +1,7 @@
 # M1-ROUT
 
-Course :
-
-Routing in Networks
+Course : Routing in Networks
+Professor : Dr. Prométhée Spathis, associate professor at Sorbonne Science
 
 Overview :
 
@@ -10,4 +9,4 @@ Routing is one of the main components of any large scale communication architect
 
 Topics include network security, multicast with IGMP protocol and routing protocols, IPv6 protocol; TCP-IP advanced functions, quality of service architecture, inter-AS routing, and Traffic engineering. The goal is to teach networking fundamentals and techniques as it will provide students with a deep understanding of how the Internet works today, and where it is going in the near future.
 
-Professor : Dr. Prométhée Spathis, associate professor at Sorbonne Science
+
