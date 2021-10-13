@@ -1,6 +1,6 @@
-## Projet de programmation d'un serveur DHCP
+# Projet de programmation d'un serveur DHCP
 
-# 1. Installer le serveur
+## 1. Installer le serveur
 
 Pour installer le serveur, il suffit de télécharger les deux fichiers python “ server_DHCP.py ” et “ client_info.py ”.
 
@@ -9,7 +9,7 @@ Pour installer le serveur, il suffit de télécharger les deux fichiers python �
 “ client_info.py ” correspond au client permettant d’obtenir et d'afficher des informations sur les adresses IP en cours d’utilisation.
 
 
-# 2. Utiliser le serveur
+## 2. Utiliser le serveur
 
 Pour utiliser le serveur, il faut tout d’abord ouvrir un terminal, puis se déplacer dans le dossier contenant les fichiers python précédemment téléchargés.
 
