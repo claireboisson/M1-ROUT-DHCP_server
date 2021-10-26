@@ -1,4 +1,4 @@
-# M1-ROUT
+# M1 Informatique parcours Réseaux - UE ROUT
 
 Course : Routing in Networks
 
